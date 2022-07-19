@@ -38,11 +38,11 @@ main :: func(): void {
       </td>
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo-700x394.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710">
       </td>
       <td width="25%" align="center">
         <span>Matlab</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="[https://cdn.svgporn.com/logos/java.svg](https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo-700x394.png)">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
