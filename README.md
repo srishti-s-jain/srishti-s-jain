@@ -42,7 +42,7 @@ main :: func(): void {
       </td>
       <td width="25%" align="center">
         <span>Matlab</span><br><br><br>
-        <img height="64px" src="[https://cdn.svgporn.com/logos/java.svg](https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo-700x394.png)">
+        <img height="64px" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo-700x394.png">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
@@ -56,7 +56,7 @@ main :: func(): void {
       </td>
       <td width="25%" align="center">
         <span>JupyterNotebook</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png?20190118024747">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
