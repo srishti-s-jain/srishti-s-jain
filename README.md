@@ -38,7 +38,7 @@ main :: func(): void {
       </td>
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <img height="64px" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo-700x394.png">
       </td>
       <td width="25%" align="center">
         <span>Matlab</span><br><br><br>
