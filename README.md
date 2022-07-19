@@ -15,7 +15,7 @@ aboutMe :: struct {
 main :: func(): void {
   Srishti :: aboutMe = {
     pronouns: ["She", "Her"],
-    languages: ["C", "C#","Matlab", "Python"],
+    languages: ["C", "C++","Matlab", "Python"],
     hobbies: ["Coding", "Gaming", "Talking"],
     funFact: "The first computer virus was created in 1983!"
   };
@@ -37,7 +37,7 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
+        <span>𝗖++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
